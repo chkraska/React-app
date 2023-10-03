@@ -1,0 +1,12 @@
+.card{
+    background-color: gold;
+    padding: 12px;
+}
+
+.title{
+    font-size: 56px;
+}
+
+.content{
+    color: red;
+}
